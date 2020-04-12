@@ -1,0 +1,25 @@
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import 'node_modules/bootstrap-vue/src/index.scss';
+$fontsize: 12px;
+$h1: 24px;
+$h2: 18px;
+$h3: 14px;
+body {
+    font-size: $fontsize;
+}
+
+h1 {
+    font-size: $h1;
+}
+
+h2 {
+    font-size: $h2;
+}
+
+h3 {
+    font-size: $h3;
+}
+
+a {
+    font-size: $fontsize;
+}
